@@ -5,10 +5,10 @@
 
 [While Loop](https://rmphill0210.github.io/Personal/Phillips_Robert_Art2210_Sept11_Fall2019/While/Ellipses.html)
 
-[Do While Loop:]()
+[Do While Loop](https://rmphill0210.github.io/Personal/Phillips_Robert_Art2210_Sept11_Fall2019/Do\\While//Ellipses(2).html)
 
-[For Loop: X Variable]()
+[For Loop: X Variable](https://rmphill0210.github.io/Personal/Phillips_Robert_Art2210_Sept11_Fall2019/)
 
-[For Loop: X&Y Variable]()
+[For Loop: X&Y Variable]https://rmphill0210.github.io/Personal/Phillips_Robert_Art2210_Sept11_Fall2019/()
 
-[For Loop: X&Y Variable with Color]()
+[For Loop: X&Y Variable with Color](https://rmphill0210.github.io/Personal/Phillips_Robert_Art2210_Sept11_Fall2019/)
