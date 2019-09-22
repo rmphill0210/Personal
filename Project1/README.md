@@ -5,6 +5,6 @@
 ## Reference Painting
 <div align=center>
 
-(https://rmphill0210.github.io/Personal/Project1/IMG/JacquilineWithGlossyHair.jpg)
+![](https://rmphill0210.github.io/Personal/Project1/IMG/JacquilineWithGlossyHair.jpg)
 
 <div align=left>
