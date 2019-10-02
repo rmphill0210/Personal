@@ -26,7 +26,9 @@ function spinner(){
   let size = 0;
   for(i = 1; i<=12; i++){
     let rings2 = ((windowWidth/2)/12*i)-50;
-    if(i==h%12){
+    if(i==h){
+      size=50
+    }else if(i==h%12){
       size=50
     }else{
       size=15
