@@ -1,4 +1,4 @@
-## Robert Phillips Clock
+## Robert Phillips Game
 
 [Batter Up!](https://rmphill0210.github.io/Personal/Projects/Phillips_Robert_Art2210_Game_Fall2019/Index.html)
 
