@@ -61,7 +61,7 @@ function windowResized(){
 function mousePressed(){
     var d = dist(coord.x,coord.y,mouseX,mouseY)*1.5;
     var dGood = dist(coord.x,coord.y,mouseX,mouseY);
-    var lives = dist(coord.x,coord.y,mouseX,mouseY)*.75;
+    var lives = dist(coord.x,coord.y,mouseX,mouseY)*.5;
     if(lives<coord.size && (counter<5 && counter !=0)){
         counter--;
     }
