@@ -10,6 +10,8 @@
 
 [Data Visualization](https://rmphill0210.github.io/Personal/Exercises/Phillips_Robert_Art2210_json_Fall2019/Nov4.html)
 
+[Extra Data Visualization](https://rmphill0210.github.io/Personal/Exercises/Phillips_Robert_Art2210_weather_Fall2019/Nov6.html);
+
 
 
 
