@@ -795,7 +795,6 @@ function setup(){
     print(changeArray2)
     go2++;
 }
-let bla=input.value();
 
 
 function draw(){
